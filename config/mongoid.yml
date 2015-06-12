@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: pusher
+      hosts:
+        - localhost:27017
